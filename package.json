@@ -22,6 +22,7 @@
     "api"
   ],
   "author": "Manfred Touron <m@42.am>",
+  "contributor": "Maxime Flamant <maxime.flamant@gmail.com>",
   "license": "MIT",
   "readmeFilename": "README.md"
 }
